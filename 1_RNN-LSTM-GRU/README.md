@@ -27,3 +27,4 @@
     - https://www.cs.toronto.edu/~graves/preprint.pdf   
 
 
+http://neuralnetworksanddeeplearning.com/index.html
