@@ -1,6 +1,10 @@
 # Resources
 - https://en.wikipedia.org/wiki/Recurrent_neural_network
-- nn from scratch. Why? idk: https://dennybritz.com/posts/wildml/implementing-a-neural-network-from-scratch/
+- NN
+    - nn from scratch. Why? idk: https://dennybritz.com/posts/wildml/implementing-a-neural-network-from-scratch/
+    - https://cs231n.github.io/optimization-2/
+    - https://colah.github.io/posts/2015-08-Backprop/
+
 - Rnn tutorial real good https://dennybritz.com/posts/wildml/recurrent-neural-networks-tutorial-part-1/
 - chris olah lstm https://colah.github.io/
 - https://medium.com/@researchgraph/an-introduction-to-recurrent-neural-networks-rnns-802fcfee3098
@@ -21,3 +25,5 @@
     - another thesis on rnns https://www.fit.vut.cz/person/imikolov/public/rnnlm/thesis.pdf
     - https://nlp.stanford.edu/~socherr/thesis.pdf
     - https://www.cs.toronto.edu/~graves/preprint.pdf   
+
+
