@@ -1,3 +1,4 @@
+decided to skip RNN learning for now, and start at transformers
 # Resources
 - [x] https://en.wikipedia.org/wiki/Recurrent_neural_network
 - [ ] NN
@@ -6,7 +7,7 @@
     - [ ] https://colah.github.io/posts/2015-08-Backprop/
 
 - [ ] Rnn tutorial real good https://dennybritz.com/posts/wildml/recurrent-neural-networks-tutorial-part-1/
-- [ ] chris olah lstm https://colah.github.io/
+- [x] chris olah lstm https://colah.github.io/
 - [ ] https://medium.com/@researchgraph/an-introduction-to-recurrent-neural-networks-rnns-802fcfee3098
 - [ ] https://karpathy.github.io/2015/05/21/rnn-effectiveness/
 - [ ] https://github.com/kjw0612/awesome-rnn
