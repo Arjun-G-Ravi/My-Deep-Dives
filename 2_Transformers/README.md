@@ -1,0 +1,41 @@
+# Plan to learn Transformers
+
+- [ ] Understand it in a basic way
+    -  [ ] Read original paper
+    -  [ ] 2. https://huggingface.co/learn/nlp-course/chapter1/1
+    -  [ ] https://www.elastic.co/what-is/large-language-models
+    -  [ ] read a few transformers survey paper
+        - [ ] https://www.sciencedirect.com/science/article/pii/S2666651022000146
+        - [ ] 
+- [ ] Play with various transformer models and LLMs, Use base transformers using API
+- [ ] Revise pytorch
+- [ ] Implement transformers with pytorch
+- [ ] Be intermediate in transformers
+    - [ ] Watch Andrej Karpathy videos
+    - [ ] 
+- [ ] Be advanced in transformers
+    - [ ] Go on a paper reading spree
+        - [ ] Pre transformer papers  
+        - [ ] Training a transformer papers  
+        - [ ] BERT, GPT paper  
+        - [ ] Llama, Gemini paper  
+        - [ ] Multimodal LLM paper  
+        - [ ] Mamba paper  
+        - [ ] Retention paper  
+        - [ ] Better transformers  
+        - [ ] Vision transformers  
+        - [ ] Decision transformers  
+        - [ ] Zotero | Your personal research assistant  
+        - [ ] Zotero | Your personal research assistant  
+        - [ ] [Zotero | Your personal research assistant](https://www.zotero.org/groups/2420932/tai_safety_bibliography/search/large%20language%20mode/titleCreatorYear/items/XF2554Q3/item-list)  
+        - [ ] Papers with Code - An Overview of Transformers  
+        - [ ] LORA  
+        - [ ] Quantisation  
+        - [ ] [On Layer Normalization in the Transformer Architecture → error in "Attention is All You Need" paper](https://arxiv.org)  
+        - [ ] Resources for deepening knowledge of Transformers  
+        - [ ] [Kaggle Transformers papers](https://www.kaggle.com)  
+        - [ ] [A Comprehensive Survey on Applications of Transformers for D...](https://www.sciencedirect.com/science/article/abs/pii/S09574174230316888)  
+        - [ ] Foundational must-read GPT/LLM papers  
+        - [ ] What Are Large Language Models (LLMs)? | IBM  
+        - [ ] Papers with Code - The latest in Machine Learning  
+        - [ ] arxiv.org
