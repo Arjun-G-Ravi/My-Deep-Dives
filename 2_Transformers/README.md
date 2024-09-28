@@ -2,7 +2,8 @@
 
 - [ ] Understand it in a basic way
     -  [ ] Read original paper
-    -  [ ] 2. https://huggingface.co/learn/nlp-course/chapter1/1
+    -  [ ] Watch 3b1b videos on transformers
+    -  [ ] https://huggingface.co/learn/nlp-course/chapter1/1
     -  [ ] https://www.elastic.co/what-is/large-language-models
     -  [ ] read a few transformers survey paper
         - [ ] https://www.sciencedirect.com/science/article/pii/S2666651022000146
