@@ -1,18 +1,16 @@
 # Plan to learn Transformers
 
-- [ ] Understand it in a basic way
+- [x] Understand it in a basic way
     -  [x] Revise original transformer paper
     -  [x] Watch 3b1b videos on transformers
     -  [x] https://huggingface.co/learn/nlp-course/chapter1/1
-    -  [ ] read a few transformers survey paper
-        - [ ] https://www.sciencedirect.com/science/article/pii/S2666651022000146
-        - [ ] 
+    -  [x] read a few transformers survey paper
+        - [x] Really good survey paper: https://www.sciencedirect.com/science/article/pii/S2666651022000146
 - [ ] Play with various transformer models and LLMs, Use base transformers using API
 - [ ] Revise pytorch
-- [ ] Implement transformers with pytorch
 - [ ] Be intermediate in transformers
     - [ ] Watch Andrej Karpathy videos
-    - [ ] 
+    - [ ] Implement transformers with pytorch
 - [ ] Be advanced in transformers
     - [ ] Go on a paper reading spree
         - [ ] Pre transformer papers  
@@ -38,4 +36,4 @@
         - [ ] Foundational must-read GPT/LLM papers  
         - [ ] What Are Large Language Models (LLMs)? | IBM  
         - [ ] Papers with Code - The latest in Machine Learning  
-        - [ ] arxiv.org
+    - [ ] Maybe implement transformers in skmini ?
