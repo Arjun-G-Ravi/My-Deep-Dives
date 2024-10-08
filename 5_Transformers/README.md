@@ -7,7 +7,7 @@
     -  [x] read a few transformers survey paper
         - [x] Really good survey paper: https://www.sciencedirect.com/science/article/pii/S2666651022000146
 - [ ] Play with various transformer models and LLMs, Use base transformers using API
-- [ ] Revise pytorch
+- [x] Revise pytorch
 - [ ] Be intermediate in transformers
     - [ ] Watch Andrej Karpathy videos
     - [ ] Implement transformers with pytorch
